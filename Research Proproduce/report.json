@@ -1,0 +1,6 @@
+{
+    "flows": [
+        {"id": "101", "match": "in_port=1", "action": "output=2"},
+        {"id": "102", "match": "in_port=2", "action": "output=1"}
+    ]
+}
